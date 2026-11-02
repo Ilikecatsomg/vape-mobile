@@ -1,4 +1,4 @@
-# 🌌 Vape V4.21 (Mobile Ghost Client)
+# Vape V4.21 (Mobile Ghost Client)
 
 The ultimate Minecraft Ghost Client optimized specifically for mobile launchers (PojavLauncher, MojoLauncher, etc.). Based on the robust Vape V4.21 architecture, fully responsive to mobile environments and touch interfaces.
 
