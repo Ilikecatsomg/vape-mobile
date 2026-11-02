@@ -15,7 +15,7 @@ The ultimate Minecraft Ghost Client optimized specifically for mobile launchers 
 
 ## 📥 How to Install & Use
 
-1. Go to the **[Releases](https://github.com)** section on the right and download the latest `.jar` file.
+1. Go to the **[Releases](https://github.com/qw2contop-eng/vape-mobile/releases/tag/v4.21)** section on the right and download the latest `.jar` file.
 2. Move the downloaded `.jar` file into the `mods` folder of whichever mobile launcher you use.
 3. Launch Minecraft using **1.8.9 Forge**.
 4. ⚠️ **IMPORTANT:** To open the client menu in-game, you must **manually create and map a custom button** (e.g., mapping a button to `RSHIFT`) inside your launcher's control settings.
